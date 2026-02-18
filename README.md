@@ -1,5 +1,4 @@
-Banking Risk & Loan Portfolio Analytics
-
+# Banking_Risk_Analysis
 
 📌 Project Overview
 This project focuses on Risk Analytics within the banking sector. The primary objective is to minimize financial loss by analyzing client profiles and their likelihood to repay loans. Using a combination of Python for data processing and Power BI for advanced visualization, this project provides actionable insights into loan distribution, deposit trends, and client engagement.
@@ -87,5 +86,4 @@ Use code with caution.
 Python: Open the Jupyter Notebook in the Scripts/ folder and run all cells to see the data transformation process.
 Power BI: Install Power BI Desktop. Open the .pbix file in the Dashboard/ folder to interact with the visualizations.
 PPT: Refer to the Presentation/ folder for a high-level summary of findings for stakeholders.
-# Banking_Risk_Analysis
-Banking Risk Analytics: A Power BI &amp; Python project using data-driven profiling to minimize lending losses and optimize loan portfolios.
+
